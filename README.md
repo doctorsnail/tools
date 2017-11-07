@@ -1,2 +1,2 @@
 # tools
-Just some toy tools
+Just some toy tools, but useful.
